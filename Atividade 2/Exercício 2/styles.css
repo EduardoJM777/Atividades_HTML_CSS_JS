@@ -1,0 +1,114 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    margin: 0 auto;
+    border: 1px solid #DDDDDD;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+.pos1a3 {
+    color: #003366;
+}
+
+.pos4 {
+    color: #1398BE;
+}
+
+.pos5a12 {
+    color: #DE9800;
+}
+
+.pos13a16 {
+    color: #CCCCCC;
+}
+
+.pos17a20 {
+    color: #C91B04;
+}
+
+.posGeral {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.titCol {
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+    text-align: center;
+}
+
+.nomeTimes {
+    font-size: 14px;
+    color: #666666;
+    font-weight: bold;
+    text-align: left;
+}
+
+.qtdPontos {
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.colRest {
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+}
+
+.corLegenda1 {
+    background-color: #003366;  
+}
+
+.corLegenda2 {  
+    background-color: #1398BE;
+}
+
+.corLegenda3 {  
+    background-color: #DE9800;
+}
+
+.corLegenda4 {  
+    background-color: #C91B04;
+}
+
+.legCla {
+    font-size: 10px;
+    color: #8F8F8F;
+    text-align: left;
+}
+
+.legSig {
+    font-size: 10px;
+    color: #555555;
+    font-weight: bold;
+    text-align: left;
+}
+
+.legSign {
+    font-size: 10px;
+    color: #555555;
+    text-align: left;
+}
+
+.corEspec {
+    background-color: #F7F7F7;
+}
+
+.larClass{
+    width: 35px;
+}
+
+td {
+    border-bottom: 1px solid #DDDDDD;
+}
+
+.linhaEspec {
+    border-bottom: 2px solid #CCCCCC;
+}
